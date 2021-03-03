@@ -2,7 +2,10 @@
 *Junior JS Developer*  
 +375292584460
  *palysaieu@gmail.com*
- 
+
+Date of birth:	*25th January 1986*
+Marital status:	*Single*
+Nationality:	*Belarusian*
 
 ---
 ##### Education: 
