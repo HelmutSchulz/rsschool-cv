@@ -11,6 +11,8 @@ Nationality:	*Belarusian*
 ##### Education: 
 - RS School student;
 - BSPU (2003-2008);
+  Сertificate in video engineering (Panasonic, Minsk, 2018)
+  Certificate in commutation systems (ATEN, Minsk, 2019)
 
 ##### Skills: 
 - Basic Javascript;
