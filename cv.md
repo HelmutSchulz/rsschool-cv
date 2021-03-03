@@ -3,16 +3,16 @@
 +375292584460
  *palysaieu@gmail.com*
 
-Date of birth:	*25th January 1986*
-Marital status:	*Single*
-Nationality:	*Belarusian*
+Date of birth:	*25th January 1986*  
+Marital status:	*Single*  
+Nationality:	*Belarusian*  
 
 ---
 ##### Education: 
 - RS School student;
 - BSPU (2003-2008);
-  Сertificate in video engineering (Panasonic, Minsk, 2018)
-  Certificate in commutation systems (ATEN, Minsk, 2019)
+- Сertificate in video engineering (Panasonic, Minsk, 2018);
+- Certificate in commutation systems (ATEN, Minsk, 2019);
 
 ##### Skills: 
 - Basic Javascript;
