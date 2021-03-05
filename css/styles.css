@@ -1,0 +1,25 @@
+.personal-info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
+
+.basic-info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: pre;  
+    width: max-content;
+}
+header {
+    text-align: center;
+}
+footer {
+    text-align: center;
+
+}
+h4 {
+    margin-bottom: auto;
+    margin-top: auto;
+}
