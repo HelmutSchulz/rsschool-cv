@@ -14,9 +14,9 @@
     <main>    
     <div class="photo">
 
-            <img class = "avatar" src = "img/ava.jpg" alt="Dmitri Palysaieu" height="120" width="120">
+            <img class = "avatar" src = "img/ava.jpg" alt="Dmitri Palysaieu" height="150" width="150">
     </div>
-<section class="personal-info">
+<div class="personal-info">
     <details>
         <summary>Personal info</summary>
     <ul>
@@ -28,7 +28,8 @@
     <li>Marital status:	Single  </li>
     <li>Nationality: Belarusian</li>
     </ul>
-</section >            
+    </details>
+</div>            
 <section class="basic-info">
     <h4>Education and skills:</h4> 
 <ul>
@@ -76,7 +77,7 @@
         function findDup( arr ){ <br>
             arr.sort(function(a, b) { return a - b; });<br>
               let duplicateValue<br>
-              for (let i=0; i < arr.length; i++) {<br>
+              for (let i=0; i &lt; arr.length; i++) {<br>
                 if (arr[i] === arr[i-1]) {<br>
                   duplicateValue = arr[i]<br>
                 }<br>
