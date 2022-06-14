@@ -20,7 +20,6 @@ header {
 }
 footer {
     text-align: center;
-
 }
 h4 {
     margin-bottom: auto;
@@ -36,9 +35,12 @@ li {
     align-content: center;
 }
 .avatar {
+    height: 150px;
+    width: 150px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50px;
 }
 .code {
     margin: 10px;
@@ -47,4 +49,7 @@ li {
     background-color: black;
     color: blanchedalmond;
     padding: 10px;
+}
+.rss-logo {
+    width: 2em;
 }
